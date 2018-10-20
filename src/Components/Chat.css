@@ -10,10 +10,19 @@
 }
 
 .Chat-box-display {
+  background-color:white;
   height:80%;
 }
 
 .Chat-box-message {
   border-top:1px black solid;
   height:20%;
+}
+
+.Chat-box-message-btn {
+  background-color: white;
+  display:flex;
+  border:1px black solid;
+  align-items:center;
+  justify-content:center;
 }
