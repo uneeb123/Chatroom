@@ -1,0 +1,19 @@
+.Chat {
+}
+
+.Chat-box {
+  background-color:#f0f0f0;
+}
+
+.Chat-friends {
+  background-color:#ddd;
+}
+
+.Chat-box-display {
+  height:80%;
+}
+
+.Chat-box-message {
+  border-top:1px black solid;
+  height:20%;
+}
